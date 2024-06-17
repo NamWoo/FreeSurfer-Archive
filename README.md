@@ -47,3 +47,14 @@ https://aramislab.paris.inria.fr/clinica/docs/public/latest/BIDS/
 http://www.turkupetcentre.net/petanalysis/image_pve.html
 https://github.com/aramis-lab/clinica?tab=readme-ov-file
 https://www.clinica.run/
+
+
+
+
+
+# FSL 
+
+https://hub.docker.com/r/mosaicml/pytorch/tags?page=3&page_size=&ordering=&name=python3.10-ubuntu20.04
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Linux
+https://git.fmrib.ox.ac.uk/fsl/conda/installer
+https://fsl.fmrib.ox.ac.uk/fsldownloads_registration/download/fsl=14,o_s=24,d_type=release/
